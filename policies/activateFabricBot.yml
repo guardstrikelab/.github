@@ -1,0 +1,13 @@
+name: Fabric Bot
+description: Description
+
+resource: repository
+where:
+- |
+  repository.name.equals("carla_apollo_bridge", StringComparison.InvariantCultureIgnoreCase)
+  || repository.name.equals("awesome-CARLA", StringComparison.InvariantCultureIgnoreCase)
+  || repository.name.equals("apollo", StringComparison.InvariantCultureIgnoreCase)
+
+configuration:
+  activateFabricBot:
+    activate: true
