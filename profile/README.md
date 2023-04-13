@@ -1,4 +1,4 @@
-![Open Source at GuardStrike](https://github.com/guardstrikelab/.github/blob/main/images/open-at-autonomous.png) 
+![Open Source at GuardStrike](https://github.com/guardstrikelab/.github/blob/main/images/open-at-care-openai.png) 
 
 ## Get Involved
 Build high-fidelity simulated driving environment and execute evaluations against large-scale scenario library, enable comprehensive identification of the safety performance of autonomous driving systems.
