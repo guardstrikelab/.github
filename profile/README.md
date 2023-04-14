@@ -12,4 +12,4 @@ Visit [guardstrike.com](https://guardstrike.com/?lang=en) to learn more!
 
 ----
 
-GuardStrike projects adopt the [GuardStrike Open Source Code of Conduct](https://guardstrike.com/tech.html). For more information see the [Code of Conduct FAQ](https://bbs.carla.org.cn/).
+[Large-scale high-throughput simulations](https://guardstrike.com/tech.html) in the Cloud, effectively drives over millions of miles per day. For more information see the [Technology of product FAQ](https://bbs.carla.org.cn/).
