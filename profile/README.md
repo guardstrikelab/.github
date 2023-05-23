@@ -10,9 +10,9 @@ Right now, open communities are building amazing software together, and there ar
 
 [//]: # (* [Chinese community for carla projects]&#40;https://carla.org.cn/#/&#41;)
 
-Visit [guardstrike.com](https://guardstrike.com/?lang=en) to learn more ! Contact us via <a href="mailto:labs@guardstrike.com">email us</a> or [visit here](https://www.guardstrike.com/index.html#contact).
+Visit [synkrotron.ai](http://www.synkrotron.ai/?lang=en) to learn more ! Contact us via <a href="mailto:labs@guardstrike.com">email us</a> or [visit here](http://www.synkrotron.ai/index.html#contact).
 
 [//]: # (----)
 
 [//]: # ()
-[//]: # ([Large-scale high-throughput simulations]&#40;https://guardstrike.com/tech.html&#41; in the Cloud, effectively drives over millions of miles per day. For more information see the [Technology of product FAQ]&#40;https://bbs.carla.org.cn/&#41;.)
+[//]: # ([Large-scale high-throughput simulations]&#40;http://www.synkrotron.ai/tech.html&#41; in the Cloud, effectively drives over millions of miles per day. For more information see the [Technology of product FAQ]&#40;https://bbs.carla.org.cn/&#41;.)
