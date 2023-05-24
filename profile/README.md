@@ -10,7 +10,7 @@ Right now, open communities are building amazing software together, and there ar
 
 [//]: # (* [Chinese community for carla projects]&#40;https://carla.org.cn/#/&#41;)
 
-Visit [synkrotron.ai](http://www.synkrotron.ai/?lang=en) to learn more ! Contact us via <a href="mailto:labs@guardstrike.com">email us</a> or [visit here](http://www.synkrotron.ai/index.html#contact).
+Visit [synkrotron.ai](http://www.synkrotron.ai/?lang=en) to learn more ! Contact us via <a href="mailto:labs@synkrotron.cn">email us</a> or [visit here](http://www.synkrotron.ai/index.html#contact).
 
 [//]: # (----)
 
